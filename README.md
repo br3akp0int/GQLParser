@@ -1,2 +1,1 @@
-# burp
-A repository for Burp Suite Extensions
+##A repository for Graph Query Extension for Burp Suite
